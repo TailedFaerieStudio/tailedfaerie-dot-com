@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coming soon ...</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Coming soon ...</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Mar 2026 20:07:38 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon ...</title>
+      <link>http://localhost:1313/posts/coming-soon/</link>
+      <pubDate>Sun, 15 Mar 2026 20:07:38 +0100</pubDate>
+      <guid>http://localhost:1313/posts/coming-soon/</guid>
+      <description>&lt;h1 id=&#34;a-work-in-progress-&#34;&gt;A work in progress &amp;hellip;&lt;/h1&gt;&#xA;&lt;p&gt;A work-in-progress website.&lt;/p&gt;&#xA;&lt;p&gt;For a work-in-progress studio.&lt;/p&gt;&#xA;&lt;p&gt;For a work-in-progress game.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re all in various stages of &amp;ldquo;not done yet.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;&#xA;&lt;p&gt;By &amp;ldquo;we,&amp;rdquo; I mean me. Just me. At least for now. Kevin Schnurbusch.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Day job:&lt;/strong&gt; Software developer at a small company&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Night job:&lt;/strong&gt; Asleep, like a normal person&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blood moon shifts:&lt;/strong&gt; Hobby game development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-do-we--i-mean--i-do&#34;&gt;What do we &amp;hellip; I mean &amp;hellip; I do?&lt;/h2&gt;&#xA;&lt;p&gt;I work on a fantasy game about a young witch who grew up in the wrong universe because of a war against &lt;strong&gt;&amp;hellip; no spoilers &amp;hellip;&lt;/strong&gt;&#xA;and an ancient spirit summons her, cause she has the power to unite &lt;strong&gt;&amp;hellip; no spoilers &amp;hellip;&lt;/strong&gt;&#xA;She has to fight, explore a new world, explore herself and who she wants to be, deal with loss, love and friendship and how to navigate her reality&#xA;without completly loosing her mind.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

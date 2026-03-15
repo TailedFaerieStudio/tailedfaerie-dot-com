@@ -1,0 +1,16 @@
+# Hugo generated files
+public/
+resources/
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
