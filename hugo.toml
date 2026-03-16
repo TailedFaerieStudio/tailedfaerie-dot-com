@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'TailedFaerie Studio'
 comingsoon="Coming soon..."
 theme = "gohugo-theme-tailedfaerie"
+[params]
+  subtitle = 'Welcome o/'
+  [params.contact]
+    email = 'contact@tailedfaerie.com'

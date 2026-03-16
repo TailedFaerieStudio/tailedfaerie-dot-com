@@ -1,9 +1,10 @@
-+++
-date = '2026-03-15T20:07:38+01:00'
-draft = false
-title = 'Coming Soon ...'
-tags = ['soon', 'work-in-progress', 'tailedfaerie']
-+++
+---
+date: '2026-03-16T20:07:38+01:00'
+draft: false
+title: 'Coming Soon ...'
+type: post
+tags: ['soon', 'work-in-progress', 'tailedfaerie']
+---
 
 # A work in progress ...
 
