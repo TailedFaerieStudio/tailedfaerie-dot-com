@@ -25,8 +25,7 @@ By "we," I mean me. Just me. At least for now. Kevin Schnurbusch.
 ## What do we ... I mean ... I do?
 I work on a fantasy game about a young witch who grew up in the wrong universe because of a war against **... no spoilers ...**
 and an ancient spirit summons her, cause she has the power to unite **... no spoilers ...**
-She has to fight, explore a new world, explore herself and who she wants to be, deal with loss, love and friendship and how to navigate her reality
-without completly loosing her mind.
+She has to fight. Explore a world that she never knew existed. Figure out who she is before the universe decides for her.
 
 But No spoilers.
 
