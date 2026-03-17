@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'TailedFaerie Studio'
 comingsoon="Coming soon..."
 theme = "gohugo-theme-tailedfaerie"
+[author]
+  name = "Kevin Schnurbusch"
+  location = "Germany"
 [params]
   subtitle = 'Welcome o/'
   [params.contact]
